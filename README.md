@@ -1,6 +1,6 @@
 # Hi 👋, I'm Lakshit 
 
-### An experienced Python developer
+### An experienced developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Lakshit-Gupta&label=Profile views&color=0e75b6&style=flat" alt="Lakshit-Gupta" /> </p>
 

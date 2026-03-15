@@ -1,45 +1,177 @@
-# Hi 👋, I'm Lakshit 
+<div align="center">
 
-### A developer
+<!-- Animated Banner GIF -->
+<img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="100%" height="180px" style="object-fit:cover; border-radius:8px;" alt="banner"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Lakshit-Gupta&label=Profile views&color=0e75b6&style=flat" alt="Lakshit-Gupta" /> </p>
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Lakshit+Gupta+%F0%9F%91%8B;Full+Stack+%7C+ML+%7C+AI+Engineer;CS+Polymath+%40+2027;Building+things+that+matter)](https://github.com/Lakshit-Gupta)
 
-<p align="left"> <a href="https://github.com/Lakshit-Gupta/github-profile-trophy"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=Lakshit-Gupta&theme=radical" alt="Lakshit-Gupta" /></a> </p>
-
-- 🔭 I'm currently working on **Myself **
-
-- 🌱 I'm currently learning **Many Things**
-
-- 👯 I'm looking to collaborate on **Tools that matter**
-
-- 🤝 I'm looking for help with **increasing consistency and productivity**
-
-- 💬 Ask me about **Anything**
-
-- 📫 How to reach me **contact@lakshit.dev**
-
-- ⚡ Fun fact **Amnesia of the Projects **
-
-- 👨‍💻 All of my projects are available at **[https://www.lakshit.dev/](https://www.lakshit.dev/)**
-
-- 📝 I regularly write articles on **[https://www.blogs.lakshit.dev/](https://www.blogs.lakshit.dev/)**
-
-- 📄 Know about my experiences **[https://www.lakshit.dev/resume.pdf](https://www.lakshit.dev/resume.pdf)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Lakshit-Gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Lakshit-Gupta" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lakshit-gupta-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshit-gupta-dev" height="30" width="40" /></a>
-<a href="https://kaggle.com/gradient1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gradient1" height="30" width="40" /></a>
-<a href="https://twitter.com/www_lakshit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="www_lakshit" height="30" width="40" /></a>
-<a href="https://medium.com/www.zxgupta12345678" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="www.zxgupta12345678" height="30" width="40" /></a>
+<!-- Profile Views & Trophies -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Lakshit-Gupta&label=Profile+Views&color=00f7ff&style=flat-square" alt="profile views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/Lakshit-Gupta?label=Followers&style=flat-square&color=00f7ff" alt="followers" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/amplify" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dart" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/elasticsearch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=elasticsearch" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gradio" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/gradio/FF7C00" alt="gradio" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/grafana" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/graphql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/heroku" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=heroku" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jenkins" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jest" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kafka" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kafka" alt="kafka" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/keras" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/langchain" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mlflow" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/mlflow/0194E2" alt="mlflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/oracle" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/puppeteer" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/puppeteer/40B5A4" alt="puppeteer" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rabbitMQ" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rabbitmq" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rust" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/selenium" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=selenium" alt="selenium" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/webpack" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=webpack" alt="webpack" width="40" height="40"/> </a></p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lakshit-Gupta&show_icons=true&locale=en&layout=compact" alt="Lakshit-Gupta" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Lakshit-Gupta&show_icons=true&locale=en" alt="Lakshit-Gupta" /></p>
+<!-- Animated separator -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshit-Gupta&" alt="Lakshit-Gupta" /></p>
+## 🧠 About Me
+
+```typescript
+const lakshit = {
+  name: "Lakshit Gupta",
+  role: "CS Polymath · Full Stack · ML · AI Engineer",
+  batch: "Class of 2027",
+  location: "India 🇮🇳",
+  currentlyBuilding: ["AI-powered tools", "Fullstack platforms", "LLM pipelines"],
+  contact: "contact@lakshit.dev",
+  portfolio: "https://www.lakshit.dev",
+  blog: "https://blogs.lakshit.dev",
+  funFact: "Amnesia of the Projects — every build is a new adventure 🚀"
+};
+```
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## ⚡ What I Do
+
+- 🌐 **Full Stack Development** — Next.js 15, TypeScript, Tailwind, Prisma, Supabase, REST & GraphQL APIs
+- 🤖 **ML / AI Engineering** — PyTorch, TensorFlow, GANs, LLMs, RAG pipelines, LangChain, FastAPI microservices
+- ☁️ **Cloud & DevOps** — AWS, GCP, Docker, CI/CD, Vercel, Nginx, Redis, Kafka
+- 🔬 **AI Evaluation** — LLM post-training workflows, EVALS, Generalist AI projects
+- 📊 **Data Science** — Pandas, Polars, Scikit-learn, MLflow, WandB, Jupyter
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://skillicons.dev/icons?i=py)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![C++](https://skillicons.dev/icons?i=cpp)
+![Java](https://skillicons.dev/icons?i=java)
+![Go](https://skillicons.dev/icons?i=go)
+![Rust](https://skillicons.dev/icons?i=rust)
+![Dart](https://skillicons.dev/icons?i=dart)
+
+### Frontend & Mobile
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![React](https://skillicons.dev/icons?i=react)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Flutter](https://skillicons.dev/icons?i=flutter)
+![Redux](https://skillicons.dev/icons?i=redux)
+
+### Backend & APIs
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![Express](https://skillicons.dev/icons?i=express)
+![GraphQL](https://skillicons.dev/icons?i=graphql)
+
+### Databases & Storage
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Redis](https://skillicons.dev/icons?i=redis)
+![SQLite](https://skillicons.dev/icons?i=sqlite)
+
+### Cloud & DevOps
+![AWS](https://skillicons.dev/icons?i=aws)
+![GCP](https://skillicons.dev/icons?i=gcp)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
+![Nginx](https://skillicons.dev/icons?i=nginx)
+![Kafka](https://skillicons.dev/icons?i=kafka)
+
+### ML / AI Stack
+![PyTorch](https://skillicons.dev/icons?i=pytorch)
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
+![OpenCV](https://skillicons.dev/icons?i=opencv)
+![Scikit-learn](https://skillicons.dev/icons?i=scikitlearn)
+![Anaconda](https://skillicons.dev/icons?i=anaconda)
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🔭 Currently Building
+
+[![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/Lakshit-Gupta)
+[![LLMs](https://img.shields.io/badge/LLMs-GPT4%20|%20Claude%20|%20Mistral-10A37F?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/Lakshit-Gupta)
+[![RAG](https://img.shields.io/badge/RAG-Pipelines-purple?style=for-the-badge)](https://github.com/Lakshit-Gupta)
+[![AI Eval](https://img.shields.io/badge/AI-Evaluation%20%26%20EVALS-00f7ff?style=for-the-badge)](https://github.com/Lakshit-Gupta)
+[![Cloud](https://img.shields.io/badge/Cloud-AWS%20%7C%20Docker%20%7C%20Vercel-lightgrey?style=for-the-badge&logo=docker)](https://github.com/Lakshit-Gupta)
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+| Stats | Streak |
+|:---:|:---:|
+| ![Lakshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lakshit-Gupta&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true) | ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Lakshit-Gupta&theme=tokyonight&hide_border=true) |
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshit-Gupta&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📈 Contribution Graph
+
+[![Lakshit's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lakshit-Gupta&theme=react-dark&hide_border=true)](https://github.com/Lakshit-Gupta)
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lakshit-Gupta/Lakshit-Gupta/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lakshit-Gupta/Lakshit-Gupta/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lakshit-Gupta/Lakshit-Gupta/output/github-contribution-grid-snake.svg">
+</picture>
+
+> ⚠️ **Note:** To enable the snake animation, set up this [GitHub Action](https://github.com/Platane/snk) in your profile repo under `.github/workflows/snake.yml`
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-lakshit.dev-00f7ff?style=for-the-badge&logo=vercel&logoColor=white)](https://www.lakshit.dev)
+[![Blog](https://img.shields.io/badge/Blog-blogs.lakshit.dev-FF4500?style=for-the-badge&logo=hashnode&logoColor=white)](https://blogs.lakshit.dev)
+[![Resume](https://img.shields.io/badge/Resume-View_PDF-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://www.lakshit.dev/resume.pdf)
+[![Email](https://img.shields.io/badge/Email-contact@lakshit.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@lakshit.dev)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lakshit--gupta--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lakshit-gupta-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-Lakshit--Gupta-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lakshit-Gupta)
+[![Kaggle](https://img.shields.io/badge/Kaggle-gradient1-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/gradient1)
+[![Twitter](https://img.shields.io/badge/Twitter-www__lakshit-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/www_lakshit)
+[![Medium](https://img.shields.io/badge/Medium-Blog-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/www.zxgupta12345678)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f7ff&height=100&section=footer&reversal=false" width="100%"/>
+</div>

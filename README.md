@@ -1,19 +1,26 @@
+<h1 align="center">
+  Yo!!! I'm Lakshit
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
+</h1>
+
+<p align="center">
+  <em>🎓 College &nbsp;☕ Coffee &nbsp;💻 Code &nbsp;🤖 AI &nbsp;— Repeat.</em>
+</p>
+
 <div align="center">
 
 <!-- ============================================================ -->
 <!--        REPLACE THE LINE BELOW WITH YOUR CHOSEN GIF           -->
 <!--  Tip: Browse https://giphy.com for coding/tech themed GIFs   -->
 <!-- ============================================================ -->
-<img src="YOUR_GIF_URL_HERE" width="100%" height="180" alt="banner" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGV0OTVxNXJxeXFmZXFxbHQ0YWh6Z2Ezd245MXh2cWQxMWh6azRlYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GCO5WNzFmlc0vjK8cA/giphy.gif" width="374px" height="374px" alt="banner" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Lakshit+%F0%9F%91%8B;Full+Stack+%7C+ML+%7C+AI+Engineer;CS+Polymath+%E2%80%94+Class+of+2027;Always+building+something+new)](https://github.com/Lakshit-Gupta)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Yo!!!+%F0%9F%91%8B+What's+Up%3F;I'm+Lakshit+Gupta;%F0%9F%9A%80+Builder+%7C+AI+Engineer+%26+Researcher;Full-Stack+Developer+%7C+Open-Source+Enthusiast)](https://github.com/Lakshit-Gupta)
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Lakshit-Gupta&label=Profile+Views&color=00f7ff&style=flat-square" alt="profile views" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/Lakshit-Gupta?label=Followers&style=flat-square&color=00f7ff" />
 </p>
 
 </div>
@@ -24,6 +31,8 @@
 
 ## 👨‍💻 About Me
 
+<img align="right" width="200px" height="200px" alt="side gif" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTU4dThqZjU2NHA3cXliMDRwanYyZDM4eWplOTZjMmc0amZhZmt1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ytu2GUYbvhz7zShGwS/giphy.gif" />
+
 I'm a CS student building at the intersection of **full-stack engineering**, **machine learning**, and **AI systems**. I care about building tools that are fast, thoughtful, and actually useful — not just technically impressive.
 
 - 🔭 Currently working on **AI-powered platforms and LLM workflows**
@@ -33,7 +42,7 @@ I'm a CS student building at the intersection of **full-stack engineering**, **m
 - 🌐 Everything I've built lives at **[lakshit.dev](https://lakshit.dev)**
 - 📄 Read my resume **[here](https://www.lakshit.dev/resume.pdf)**
 - 📬 Reach me at **contact@lakshit.dev**
-- ⚡ Fun fact — I call it *Amnesia of the Projects*
+- 🌟 **Fun Fact:** I'm a Jack of All Trades — familiar with almost every tech stack and technology out there
 
 ---
 
@@ -51,9 +60,35 @@ I'm a CS student building at the intersection of **full-stack engineering**, **m
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+## 🏆 Major Wins & Roles
+
+> *The battles that shaped the builder.*
+
+- 🥇 **[Add your win here]** — e.g. Hackathon name, position, year
+- 🥇 **[Add your win here]** — e.g. Competition, award
+- 🥈 **[Add your win here]** — e.g. Runner-up at something cool
+- 🏅 **[Add your win here]** — e.g. Top 5 / finalist / notable mention
+- 👨‍💼 **[Add a role here]** — e.g. SDE Intern @ Company, AI Researcher @ Org
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📚 What I'm Doing
+
+- ⚛️ Deepening expertise in **Next.js**, **backend architecture**, and **system design**
+- 🧠 Diving deeper into **LLMs**, **Generative AI**, and **RAG pipelines**
+- 🔬 Working on **AI Evaluation** workflows and **LLM post-training**
+- ☁️ Sharpening **DevOps**, **cloud-native** deployments, and **MCP workflows**
+- 🏗️ Building things that matter — one commit at a time
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## 🛠️ Tech Stack
 
-**Languages**
+**🗣️ Languages**
 
 ![Python](https://skillicons.dev/icons?i=py)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
@@ -64,7 +99,7 @@ I'm a CS student building at the intersection of **full-stack engineering**, **m
 ![Rust](https://skillicons.dev/icons?i=rust)
 ![Dart](https://skillicons.dev/icons?i=dart)
 
-**Frontend & Mobile**
+**💻 Frontend & Mobile**
 
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![React](https://skillicons.dev/icons?i=react)
@@ -74,14 +109,14 @@ I'm a CS student building at the intersection of **full-stack engineering**, **m
 ![Flutter](https://skillicons.dev/icons?i=flutter)
 ![Redux](https://skillicons.dev/icons?i=redux)
 
-**Backend & APIs**
+**🚀 Backend & APIs**
 
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![FastAPI](https://skillicons.dev/icons?i=fastapi)
 ![Express](https://skillicons.dev/icons?i=express)
 ![GraphQL](https://skillicons.dev/icons?i=graphql)
 
-**Databases**
+**🗄️ Databases**
 
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
@@ -89,7 +124,7 @@ I'm a CS student building at the intersection of **full-stack engineering**, **m
 ![Redis](https://skillicons.dev/icons?i=redis)
 ![SQLite](https://skillicons.dev/icons?i=sqlite)
 
-**Cloud & DevOps**
+**☁️ Cloud & DevOps**
 
 ![AWS](https://skillicons.dev/icons?i=aws)
 ![GCP](https://skillicons.dev/icons?i=gcp)
@@ -98,7 +133,7 @@ I'm a CS student building at the intersection of **full-stack engineering**, **m
 ![Nginx](https://skillicons.dev/icons?i=nginx)
 ![Kafka](https://skillicons.dev/icons?i=kafka)
 
-**ML / AI**
+**🤖 ML / AI**
 
 ![PyTorch](https://skillicons.dev/icons?i=pytorch)
 ![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
@@ -112,11 +147,35 @@ I'm a CS student building at the intersection of **full-stack engineering**, **m
 
 ## 🔭 Currently Building
 
-[![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/Lakshit-Gupta)
-[![LLMs](https://img.shields.io/badge/LLMs-GPT4%20|%20Claude%20|%20Mistral-10A37F?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/Lakshit-Gupta)
-[![RAG](https://img.shields.io/badge/RAG-Pipelines-8B5CF6?style=for-the-badge)](https://github.com/Lakshit-Gupta)
-[![AI Eval](https://img.shields.io/badge/AI-Evaluation%20%26%20EVALS-00f7ff?style=for-the-badge)](https://github.com/Lakshit-Gupta)
-[![Cloud](https://img.shields.io/badge/Cloud-AWS%20|%20Docker%20|%20Vercel-lightgrey?style=for-the-badge&logo=docker)](https://github.com/Lakshit-Gupta)
+> *Projects that matter — to me and to people who use them.*
+
+| Project | What it is | Status |
+| :--- | :--- | :--- |
+| **[Project Name](https://github.com/Lakshit-Gupta)** | Short description of what it does and why it matters | 🚧 In Progress |
+| **[Project Name](https://github.com/Lakshit-Gupta)** | Short description of what it does and why it matters | 🚀 Live |
+| **[Project Name](https://github.com/Lakshit-Gupta)** | Short description of what it does and why it matters | 🧪 Experimenting |
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📂 Featured Projects
+
+#### 🤖 Artificial Intelligence & Machine Learning
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[Project Name](https://github.com/Lakshit-Gupta)** | 🚀 Short punchy description of what this AI project does and why it's interesting | `Python` `PyTorch` `FastAPI` |
+| **[Project Name](https://github.com/Lakshit-Gupta)** | 📚 Short punchy description — RAG, LLM, CV, whatever it is | `LangChain` `LLM` `VectorDB` |
+| **[Project Name](https://github.com/Lakshit-Gupta)** | 🛡️ Short punchy description of the model / system | `TensorFlow` `OpenCV` |
+
+#### 🌐 Full Stack Development
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[Project Name](https://github.com/Lakshit-Gupta)** | 🎨 Short punchy description of the fullstack app | `Next.js` `TypeScript` `Tailwind` |
+| **[Project Name](https://github.com/Lakshit-Gupta)** | 💡 Short punchy description of what this solves | `React` `Node.js` `PostgreSQL` |
+| **[Project Name](https://github.com/Lakshit-Gupta)** | ⚡ Short punchy description of the platform | `Supabase` `Prisma` `Vercel` |
 
 ---
 
@@ -130,7 +189,23 @@ I'm a CS student building at the intersection of **full-stack engineering**, **m
 |:---:|:---:|
 | ![Lakshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lakshit-Gupta&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true) | ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Lakshit-Gupta&theme=tokyonight&hide_border=true) |
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshit-Gupta&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lakshit-Gupta&theme=tokyonight" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lakshit-Gupta&theme=tokyonight" height="180"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lakshit-Gupta&theme=tokyonight" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lakshit-Gupta&theme=tokyonight&utcOffset=5.5" height="180"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lakshit-Gupta&theme=tokyonight" width="100%"/>
+
+<br/>
+
+![Lakshit's Advanced Stats](https://stats.dooboo.io/api/github-stats-advanced?login=Lakshit-Gupta)
 
 </div>
 
@@ -140,7 +215,7 @@ I'm a CS student building at the intersection of **full-stack engineering**, **m
 
 ## 📈 Contribution Graph
 
-[![Lakshit's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lakshit-Gupta&theme=react-dark&hide_border=true)](https://github.com/Lakshit-Gupta)
+[![Lakshit's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lakshit-Gupta&theme=react-dark&hide_border=true&area=true)](https://github.com/Lakshit-Gupta)
 
 ---
 
@@ -152,7 +227,21 @@ I'm a CS student building at the intersection of **full-stack engineering**, **m
   <img alt="contribution snake" src="https://raw.githubusercontent.com/Lakshit-Gupta/Lakshit-Gupta/output/github-contribution-grid-snake.svg">
 </picture>
 
-> ⚠️ Snake needs a one-time GitHub Action setup — see [Platane/snk](https://github.com/Platane/snk)
+<div align="center">
+  <i>My contributions, eaten alive 🐍</i>
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🏅 Holopin Badges
+
+<div align="center">
+  <a href="https://holopin.me/lakshitgupta">
+    <img src="https://holopin.me/lakshitgupta" alt="@lakshitgupta Holopin board" />
+  </a>
+</div>
 
 ---
 
@@ -162,18 +251,18 @@ I'm a CS student building at the intersection of **full-stack engineering**, **m
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-lakshit.dev-00f7ff?style=for-the-badge&logo=vercel&logoColor=white)](https://www.lakshit.dev)
-[![Blog](https://img.shields.io/badge/Blog-blogs.lakshit.dev-FF4500?style=for-the-badge&logo=hashnode&logoColor=white)](https://blogs.lakshit.dev)
-[![Resume](https://img.shields.io/badge/Resume-View_PDF-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://www.lakshit.dev/resume.pdf)
-[![Email](https://img.shields.io/badge/Email-contact@lakshit.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@lakshit.dev)
+<a href="https://linkedin.com/in/lakshit-gupta-dev"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>&nbsp;
+<a href="https://github.com/Lakshit-Gupta"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>&nbsp;
+<a href="https://twitter.com/www_lakshit"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>&nbsp;
+<a href="mailto:contact@lakshit.dev"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>&nbsp;
+<a href="https://kaggle.com/gradient1"><img src="https://skillicons.dev/icons?i=kaggle" alt="Kaggle" /></a>
 
-<br/>
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-lakshit--gupta--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lakshit-gupta-dev)
-[![GitHub](https://img.shields.io/badge/GitHub-Lakshit--Gupta-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lakshit-Gupta)
-[![Kaggle](https://img.shields.io/badge/Kaggle-gradient1-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/gradient1)
-[![Twitter](https://img.shields.io/badge/Twitter-www__lakshit-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/www_lakshit)
-[![Medium](https://img.shields.io/badge/Medium-Blog-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/www.zxgupta12345678)
+<a href="https://www.lakshit.dev"><img src="https://img.shields.io/badge/🌐_Portfolio-lakshit.dev-00f7ff?style=for-the-badge" /></a>
+<a href="https://blogs.lakshit.dev"><img src="https://img.shields.io/badge/✍️_Blog-blogs.lakshit.dev-FF4500?style=for-the-badge" /></a>
+<a href="https://www.lakshit.dev/resume.pdf"><img src="https://img.shields.io/badge/📄_Resume-View_PDF-4CAF50?style=for-the-badge" /></a>
+<a href="https://medium.com/www.zxgupta12345678"><img src="https://img.shields.io/badge/📰_Medium-Articles-12100E?style=for-the-badge" /></a>
 
 </div>
 
@@ -181,4 +270,6 @@ I'm a CS student building at the intersection of **full-stack engineering**, **m
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00f7ff&height=100&section=footer" width="100%"/>
+  <br/>
+  <i>⭐ If my work sparked something for you, a star on the repo goes a long way!</i>
 </div>

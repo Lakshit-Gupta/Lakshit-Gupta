@@ -41,7 +41,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="200px" height="200px" alt="side gif" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTU4dThqZjU2NHA3cXliMDRwanYyZDM4eWplOTZjMmc0amZhZmt1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ytu2GUYbvhz7zShGwS/giphy.gif" />
+<img align="right" width="200px" height="200px" alt="side gif" src="https://tenor.com/view/swinging-sticks-kinetic-energy-sculpture-playing-taking-time-bored-waiting-gif-15197038"/>
 
 I'm a CS student building at the intersection of **full-stack engineering**, **machine learning**, and **AI systems**. I care about building tools that are fast, thoughtful, and actually useful — not just technically impressive.
 
@@ -53,6 +53,7 @@ I'm a CS student building at the intersection of **full-stack engineering**, **m
 - 🌐 Everything I've built lives at **[lakshit.dev](https://lakshit.dev)**
 - 📄 Read my resume **[here](https://www.lakshit.dev/resume.pdf)**
 - 📬 Reach me at **contact@lakshit.dev**
+- 🎧 Currently vibing to — *myself* 🤷
 - 🌟 **Fun Fact:** I'm a Jack of All Trades — familiar with almost every tech stack and technology out there
 
 ---

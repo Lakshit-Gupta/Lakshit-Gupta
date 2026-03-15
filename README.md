@@ -1,6 +1,6 @@
 <!-- Daily Dev Quote -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" width="100%"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="70%"/>
 </div>
 
 ---
@@ -37,7 +37,7 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> -->
 
 ## 👨‍💻 About Me
 
@@ -57,7 +57,7 @@ I'm a CS student building at the intersection of **full-stack engineering**, **m
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> -->
 
 ## 📂 Featured Projects
 
@@ -79,7 +79,7 @@ I'm a CS student building at the intersection of **full-stack engineering**, **m
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> -->
 
 ## 🔭 Currently Building
 
@@ -93,7 +93,7 @@ I'm a CS student building at the intersection of **full-stack engineering**, **m
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> -->
 
 ## 🛠️ Tech Stack
 
@@ -152,7 +152,7 @@ I'm a CS student building at the intersection of **full-stack engineering**, **m
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> -->
 
 ## 📚 What I'm Doing
 
@@ -164,7 +164,7 @@ I'm a CS student building at the intersection of **full-stack engineering**, **m
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> -->
 
 ## 🏆 Major Wins & Roles
 
@@ -178,7 +178,7 @@ I'm a CS student building at the intersection of **full-stack engineering**, **m
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> -->
 
 ## 📊 GitHub Stats
 
@@ -206,7 +206,7 @@ I'm a CS student building at the intersection of **full-stack engineering**, **m
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> -->
 
 ## 📈 Contribution Graph
 
@@ -232,7 +232,7 @@ I'm a CS student building at the intersection of **full-stack engineering**, **m
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> -->
 
 ## 🏅 Holopin Badges
 
@@ -246,7 +246,7 @@ I'm a CS student building at the intersection of **full-stack engineering**, **m
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> -->
 
 ## 🌐 Connect With Me
 

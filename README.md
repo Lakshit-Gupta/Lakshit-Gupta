@@ -1,23 +1,33 @@
+<!-- Daily Dev Quote -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" width="100%"/>
+</div>
+
+---
+
+<!-- Name Header — commented out, dev quote acts as hook instead -->
+<!--
 <h1 align="center">
   Yo!!! I'm Lakshit
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
 </h1>
+-->
 
+<!-- Tagline — commented out, replace with your own when ready -->
+<!--
 <p align="center">
   <em>🎓 College &nbsp;☕ Coffee &nbsp;💻 Code &nbsp;🤖 AI &nbsp;— Repeat.</em>
 </p>
+-->
 
+<!-- Typing Animation -->
 <div align="center">
 
-<!-- ============================================================ -->
-<!--        REPLACE THE LINE BELOW WITH YOUR CHOSEN GIF           -->
-<!--  Tip: Browse https://giphy.com for coding/tech themed GIFs   -->
-<!-- ============================================================ -->
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGV0OTVxNXJxeXFmZXFxbHQ0YWh6Z2Ezd245MXh2cWQxMWh6azRlYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GCO5WNzFmlc0vjK8cA/giphy.gif" width="374px" height="374px" alt="banner" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Yo!!!+%F0%9F%91%8B+What's+Up%3F;I'm+Lakshit+Gupta;%F0%9F%9A%80+Builder+%7C+AI+Engineer+%26+Researcher;Full-Stack+Developer+%7C+Open-Source+Enthusiast)](https://github.com/Lakshit-Gupta)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Yo!!!+%F0%9F%91%8B+What's+Up%3F;I'm+Lakshit+Gupta+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%F0%9F%9A%80+Builder+%7C+AI+Engineer+%26+Researcher;%F0%9F%8C%8D+Full-Stack+Dev+%7C+%F0%9F%94%93+Open-Source+Enthusiast)](https://github.com/Lakshit-Gupta)
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Lakshit-Gupta&label=Profile+Views&color=00f7ff&style=flat-square" alt="profile views" />
@@ -37,6 +47,7 @@ I'm a CS student building at the intersection of **full-stack engineering**, **m
 
 - 🔭 Currently working on **AI-powered platforms and LLM workflows**
 - 🌱 Exploring **LLM post-training, EVALS, and generative AI**
+- 🖥️ Running a **homelab** — tinkering with self-hosted infra, servers, and local AI setups
 - 👯 Open to collaborating on **tools that solve real problems**
 - 📝 I write about tech at **[blogs.lakshit.dev](https://blogs.lakshit.dev)**
 - 🌐 Everything I've built lives at **[lakshit.dev](https://lakshit.dev)**
@@ -48,39 +59,37 @@ I'm a CS student building at the intersection of **full-stack engineering**, **m
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## ⚡ What I Do
+## 📂 Featured Projects
 
-- 🌐 **Full Stack** — Next.js 15, TypeScript, Tailwind, Prisma, Supabase, REST & GraphQL
-- 🤖 **ML / AI** — PyTorch, TensorFlow, GANs, LLMs, RAG pipelines, LangChain, FastAPI
-- ☁️ **Cloud & DevOps** — AWS, GCP, Docker, Kubernetes, Nginx, Redis, Kafka
-- 🔬 **AI Evaluation** — LLM post-training workflows, EVALS, Generalist AI projects
-- 📊 **Data Science** — Pandas, Polars, Scikit-learn, MLflow, WandB
+#### 🤖 Artificial Intelligence & Machine Learning
 
----
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[Project Name](https://github.com/Lakshit-Gupta)** | 🚀 Short punchy description of what this AI project does and why it's interesting | `Python` `PyTorch` `FastAPI` |
+| **[Project Name](https://github.com/Lakshit-Gupta)** | 📚 Short punchy description — RAG, LLM, CV, whatever it is | `LangChain` `LLM` `VectorDB` |
+| **[Project Name](https://github.com/Lakshit-Gupta)** | 🛡️ Short punchy description of the model / system | `TensorFlow` `OpenCV` |
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+#### 🌐 Full Stack Development
 
-## 🏆 Major Wins & Roles
-
-> *The battles that shaped the builder.*
-
-- 🥇 **[Add your win here]** — e.g. Hackathon name, position, year
-- 🥇 **[Add your win here]** — e.g. Competition, award
-- 🥈 **[Add your win here]** — e.g. Runner-up at something cool
-- 🏅 **[Add your win here]** — e.g. Top 5 / finalist / notable mention
-- 👨‍💼 **[Add a role here]** — e.g. SDE Intern @ Company, AI Researcher @ Org
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[Project Name](https://github.com/Lakshit-Gupta)** | 🎨 Short punchy description of the fullstack app | `Next.js` `TypeScript` `Tailwind` |
+| **[Project Name](https://github.com/Lakshit-Gupta)** | 💡 Short punchy description of what this solves | `React` `Node.js` `PostgreSQL` |
+| **[Project Name](https://github.com/Lakshit-Gupta)** | ⚡ Short punchy description of the platform | `Supabase` `Prisma` `Vercel` |
 
 ---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📚 What I'm Doing
+## 🔭 Currently Building
 
-- ⚛️ Deepening expertise in **Next.js**, **backend architecture**, and **system design**
-- 🧠 Diving deeper into **LLMs**, **Generative AI**, and **RAG pipelines**
-- 🔬 Working on **AI Evaluation** workflows and **LLM post-training**
-- ☁️ Sharpening **DevOps**, **cloud-native** deployments, and **MCP workflows**
-- 🏗️ Building things that matter — one commit at a time
+> *Projects that matter — to me and to people who use them.*
+
+| Project | What it is | Status |
+| :--- | :--- | :--- |
+| **[Project Name](https://github.com/Lakshit-Gupta)** | Short description of what it does and why it matters | 🚧 In Progress |
+| **[Project Name](https://github.com/Lakshit-Gupta)** | Short description of what it does and why it matters | 🚀 Live |
+| **[Project Name](https://github.com/Lakshit-Gupta)** | Short description of what it does and why it matters | 🧪 Experimenting |
 
 ---
 
@@ -145,37 +154,27 @@ I'm a CS student building at the intersection of **full-stack engineering**, **m
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🔭 Currently Building
+## 📚 What I'm Doing
 
-> *Projects that matter — to me and to people who use them.*
-
-| Project | What it is | Status |
-| :--- | :--- | :--- |
-| **[Project Name](https://github.com/Lakshit-Gupta)** | Short description of what it does and why it matters | 🚧 In Progress |
-| **[Project Name](https://github.com/Lakshit-Gupta)** | Short description of what it does and why it matters | 🚀 Live |
-| **[Project Name](https://github.com/Lakshit-Gupta)** | Short description of what it does and why it matters | 🧪 Experimenting |
+- ⚛️ Deepening expertise in **Next.js**, **backend architecture**, and **system design**
+- 🧠 Diving deeper into **LLMs**, **Generative AI**, and **RAG pipelines**
+- 🔬 Working on **AI Evaluation** workflows and **LLM post-training**
+- ☁️ Sharpening **DevOps**, **cloud-native** deployments, and **MCP workflows**
+- 🏗️ Building things that matter — one commit at a time
 
 ---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📂 Featured Projects
+## 🏆 Major Wins & Roles
 
-#### 🤖 Artificial Intelligence & Machine Learning
+> *The battles that shaped the builder.*
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[Project Name](https://github.com/Lakshit-Gupta)** | 🚀 Short punchy description of what this AI project does and why it's interesting | `Python` `PyTorch` `FastAPI` |
-| **[Project Name](https://github.com/Lakshit-Gupta)** | 📚 Short punchy description — RAG, LLM, CV, whatever it is | `LangChain` `LLM` `VectorDB` |
-| **[Project Name](https://github.com/Lakshit-Gupta)** | 🛡️ Short punchy description of the model / system | `TensorFlow` `OpenCV` |
-
-#### 🌐 Full Stack Development
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[Project Name](https://github.com/Lakshit-Gupta)** | 🎨 Short punchy description of the fullstack app | `Next.js` `TypeScript` `Tailwind` |
-| **[Project Name](https://github.com/Lakshit-Gupta)** | 💡 Short punchy description of what this solves | `React` `Node.js` `PostgreSQL` |
-| **[Project Name](https://github.com/Lakshit-Gupta)** | ⚡ Short punchy description of the platform | `Supabase` `Prisma` `Vercel` |
+- 🥇 **[Add your win here]** — e.g. Hackathon name, position, year
+- 🥇 **[Add your win here]** — e.g. Competition, award
+- 🥈 **[Add your win here]** — e.g. Runner-up at something cool
+- 🏅 **[Add your win here]** — e.g. Top 5 / finalist / notable mention
+- 👨‍💼 **[Add a role here]** — e.g. SDE Intern @ Company, AI Researcher @ Org
 
 ---
 
@@ -185,27 +184,23 @@ I'm a CS student building at the intersection of **full-stack engineering**, **m
 
 <div align="center">
 
+<!-- Commented out: GitHub stats card (B grading) + streak — uncomment to restore -->
+<!--
 | Stats | Streak |
 |:---:|:---:|
 | ![Lakshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lakshit-Gupta&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true) | ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Lakshit-Gupta&theme=tokyonight&hide_border=true) |
+-->
 
-<br/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lakshit-Gupta&theme=2077" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lakshit-Gupta&theme=2077" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lakshit-Gupta&theme=2077" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lakshit-Gupta&theme=2077" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lakshit-Gupta&theme=2077&utcOffset=5.5" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lakshit-Gupta&theme=tokyonight" height="180"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lakshit-Gupta&theme=tokyonight" height="180"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lakshit-Gupta&theme=tokyonight" height="180"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lakshit-Gupta&theme=tokyonight&utcOffset=5.5" height="180"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lakshit-Gupta&theme=tokyonight" width="100%"/>
-
-<br/>
-
+<!-- Commented out: dooboo advanced stats (bronze tier / average points) — uncomment to restore -->
+<!--
 ![Lakshit's Advanced Stats](https://stats.dooboo.io/api/github-stats-advanced?login=Lakshit-Gupta)
+-->
 
 </div>
 
@@ -215,7 +210,11 @@ I'm a CS student building at the intersection of **full-stack engineering**, **m
 
 ## 📈 Contribution Graph
 
+<div align="center">
+
 [![Lakshit's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lakshit-Gupta&theme=react-dark&hide_border=true&area=true)](https://github.com/Lakshit-Gupta)
+
+</div>
 
 ---
 
@@ -236,6 +235,8 @@ I'm a CS student building at the intersection of **full-stack engineering**, **m
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🏅 Holopin Badges
+
+> *Badges earned along the way — more coming soon.*
 
 <div align="center">
   <a href="https://holopin.me/lakshitgupta">

@@ -23,7 +23,7 @@
 <!-- Typing Animation -->
 <div align="center">
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanltdXdpaWo5bGN6ajRpYzAyeXUzdmlxMHdhajliYXU3dXNhb3dzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Urab2eeIcv0vxawXfF/giphy.gif" width="480px" height="480px" alt="banner" />
+<img src="https://github.com/Lakshit-Gupta/Lakshit-Gupta/blob/main/header.gif?raw=true" width="480px" height="480px" alt="banner" />
 
 <br/>
 
@@ -31,7 +31,7 @@
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Lakshit-Gupta&label=Profile+Views&color=00f7ff&style=flat-square" alt="profile views" />
-</p>
+</p> 
 
 </div>
 
@@ -41,9 +41,10 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="200px" height="200px" alt="side gif" src="https://github.com/Lakshit-Gupta/Lakshit-Gupta/blob/main/swinging-sticks.gif?raw=true" />
-
 I'm a CS student building at the intersection of **full-stack engineering**, **machine learning**, and **AI systems**. I care about building tools that are fast, thoughtful, and actually useful — not just technically impressive.
+
+<!-- <br> -->
+<img align="right" width="260px" alt="side gif" src="https://github.com/Lakshit-Gupta/Lakshit-Gupta/blob/main/swinging-sticks.gif?raw=true" style="margin-top:60px; margin-left:24px;" />
 
 - 🔭 Currently working on **AI-powered platforms and LLM workflows**
 - 🌱 Exploring **LLM post-training, EVALS, and generative AI**
@@ -66,17 +67,17 @@ I'm a CS student building at the intersection of **full-stack engineering**, **m
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[Project Name](https://github.com/Lakshit-Gupta)** | 🚀 Short punchy description of what this AI project does and why it's interesting | `Python` `PyTorch` `FastAPI` |
-| **[Project Name](https://github.com/Lakshit-Gupta)** | 📚 Short punchy description — RAG, LLM, CV, whatever it is | `LangChain` `LLM` `VectorDB` |
-| **[Project Name](https://github.com/Lakshit-Gupta)** | 🛡️ Short punchy description of the model / system | `TensorFlow` `OpenCV` |
+| **[Langgraph_agentic_rag](https://github.com/Lakshit-Gupta/Langgraph_agentic_rag)** | 🧠 Agentic RAG pipeline utilizing LangGraph for complex retrieval and reasoning workflows | `Python` `LangGraph` `LangChain` |
+| **[tinyllama-finqa-app](https://github.com/Lakshit-Gupta/tinyllama-finqa-app)** | 📉 Financial Q&A API utilizing a **LoRA fine-tuned** TinyLlama model on 10-K reports | `Python` `FastAPI` `PEFT/LoRA` |
+| **[Image_Forgery_Detection](https://github.com/Lakshit-Gupta/Image_Forgery_Detection)** | 🕵️‍♂️ Research-grade forensic tool using **ELA (Error Level Analysis)** and VGG19 to detect splicing | `Python` `TensorFlow` `Streamlit` |
 
 #### 🌐 Full Stack Development
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[Project Name](https://github.com/Lakshit-Gupta)** | 🎨 Short punchy description of the fullstack app | `Next.js` `TypeScript` `Tailwind` |
-| **[Project Name](https://github.com/Lakshit-Gupta)** | 💡 Short punchy description of what this solves | `React` `Node.js` `PostgreSQL` |
-| **[Project Name](https://github.com/Lakshit-Gupta)** | ⚡ Short punchy description of the platform | `Supabase` `Prisma` `Vercel` |
+| **[BrainBolt](https://github.com/Lakshit-Gupta/BrainBolt)** | ⚡ Adaptive quiz platform featuring a real-time confidence-based hysteresis algorithm | `Next.js 15` `TypeScript` `Redis` |
+| **[scheduling-platform](https://github.com/Lakshit-Gupta/scheduling-platform)** | 📅 Enterprise-grade scheduling infrastructure with complex booking workflows (Cal.com replica) | `Next.js` `Prisma` `Supabase` |
+| **[Global_Career](https://github.com/Lakshit-Gupta/Global_Career)** | 🌍 AI-powered global job search platform with auto-translation and resume optimization | `Next.js` `TypeScript` `Supabase` |
 
 ---
 
@@ -88,9 +89,9 @@ I'm a CS student building at the intersection of **full-stack engineering**, **m
 
 | Project | What it is | Status |
 | :--- | :--- | :--- |
-| **[Project Name](https://github.com/Lakshit-Gupta)** | Short description of what it does and why it matters | 🚧 In Progress |
-| **[Project Name](https://github.com/Lakshit-Gupta)** | Short description of what it does and why it matters | 🚀 Live |
-| **[Project Name](https://github.com/Lakshit-Gupta)** | Short description of what it does and why it matters | 🧪 Experimenting |
+| **[scheduling-platform](https://github.com/Lakshit-Gupta/scheduling-platform)** | Open-source scheduling infrastructure | 🚀 Live |
+| **[BrainBolt](https://github.com/Lakshit-Gupta/BrainBolt)** | Adaptive learning algorithm experiments | 🧪 Beta |
+| **[testing_in_prod](https://github.com/Lakshit-Gupta/testing_in_prod)** | Production testing and CI/CD experiments | 🚧 Researching |
 
 ---
 
@@ -158,8 +159,8 @@ I'm a CS student building at the intersection of **full-stack engineering**, **m
 ## 📚 What I'm Doing
 
 - ⚛️ Deepening expertise in **Next.js**, **backend architecture**, and **system design**
-- 🧠 Diving deeper into **LLMs**, **Generative AI**, and **RAG pipelines**
-- 🔬 Working on **AI Evaluation** workflows and **LLM post-training**
+- 🧠 Diving deeper into **LLMs**, **Fine-tuning (PEFT/LoRA)**, and **Agentic RAG**
+- 🔬 Working on **AI Forensics** and **Computer Vision** research
 - ☁️ Sharpening **DevOps**, **cloud-native** deployments, and **MCP workflows**
 - 🏗️ Building things that matter — one commit at a time
 
@@ -171,11 +172,13 @@ I'm a CS student building at the intersection of **full-stack engineering**, **m
 
 > *The battles that shaped the builder.*
 
-- 🥇 **[Add your win here]** — e.g. Hackathon name, position, year
-- 🥇 **[Add your win here]** — e.g. Competition, award
-- 🥈 **[Add your win here]** — e.g. Runner-up at something cool
-- 🏅 **[Add your win here]** — e.g. Top 5 / finalist / notable mention
-- 👨‍💼 **[Add a role here]** — e.g. SDE Intern @ Company, AI Researcher @ Org
+- 🥇 **1st Place, Bug Finding Competition** — GeeksforGeeks (DSA Debugging)
+- 🥉 **Rank 3, Zerodha Varsity Campus Quiz** — Financial & Market Literacy
+- 🏅 **Rank 5, Smart India Hackathon** — Campus Internal Round
+- 🏅 **Top 10 Finalist** — Industrial Hackathon, Project Showcase, & Hackachino Zero Threat
+<!-- - 👨‍💼 **SDE Intern** — @ITJobxs.com  -->
+<!-- - 👨‍💼 **AI Intern** — @Ethara AI  -->
+<!-- - 👨‍💼 **[Add a role here]** — e.g. SDE Intern @ Company, AI Researcher @ Org -->
 
 ---
 

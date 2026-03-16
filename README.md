@@ -23,11 +23,11 @@
 <!-- Typing Animation -->
 <div align="center">
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGV0OTVxNXJxeXFmZXFxbHQ0YWh6Z2Ezd245MXh2cWQxMWh6azRlYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GCO5WNzFmlc0vjK8cA/giphy.gif" width="374px" height="374px" alt="banner" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanltdXdpaWo5bGN6ajRpYzAyeXUzdmlxMHdhajliYXU3dXNhb3dzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Urab2eeIcv0vxawXfF/giphy.gif" width="480px" height="480px" alt="banner" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Yo!!!+%F0%9F%91%8B+What's+Up%3F;I'm+Lakshit+Gupta+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%F0%9F%9A%80+Builder+%7C+AI+Engineer+%26+Researcher;%F0%9F%8C%8D+Full-Stack+Dev+%7C+%F0%9F%94%93+Open-Source+Enthusiast)](https://github.com/Lakshit-Gupta)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Yo!!!+%F0%9F%91%8B+What's+Up%3F;I'm+Lakshit+Gupta+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%F0%9F%9A%80+Builder+%7C+%F0%9F%A4%96+AI+Engineer+%26+Researcher;%F0%9F%8C%8D+Full-Stack+Dev+%7C+%F0%9F%94%93+Open-Source+Enthusiast)](https://github.com/Lakshit-Gupta)
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Lakshit-Gupta&label=Profile+Views&color=00f7ff&style=flat-square" alt="profile views" />
@@ -41,7 +41,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="200px" height="200px" alt="side gif" src="https://tenor.com/view/swinging-sticks-kinetic-energy-sculpture-playing-taking-time-bored-waiting-gif-15197038"/>
+<img align="right" width="200px" height="200px" alt="side gif" src="https://github.com/Lakshit-Gupta/Lakshit-Gupta/blob/main/swinging-sticks.gif?raw=true" />
 
 I'm a CS student building at the intersection of **full-stack engineering**, **machine learning**, and **AI systems**. I care about building tools that are fast, thoughtful, and actually useful — not just technically impressive.
 
@@ -53,8 +53,8 @@ I'm a CS student building at the intersection of **full-stack engineering**, **m
 - 🌐 Everything I've built lives at **[lakshit.dev](https://lakshit.dev)**
 - 📄 Read my resume **[here](https://www.lakshit.dev/resume.pdf)**
 - 📬 Reach me at **contact@lakshit.dev**
-- 🎧 Currently vibing to — *myself* 🤷
 - 🌟 **Fun Fact:** I'm a Jack of All Trades — familiar with almost every tech stack and technology out there
+- 🎧 Currently vibing to — *myself* 🤷
 
 ---
 

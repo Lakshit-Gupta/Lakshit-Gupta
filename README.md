@@ -266,7 +266,7 @@ I'm a CS student building at the intersection of **full-stack engineering**, **m
 
 <a href="https://www.lakshit.dev"><img src="https://img.shields.io/badge/🌐_Portfolio-lakshit.dev-00f7ff?style=for-the-badge" /></a>
 <a href="https://x.com/www_lakshit"><img src="https://img.shields.io/badge/✍️_Blog-blogs.lakshit.de-FF4500?style=for-the-badge" /></a>
-<a href="https://www.lakshit.dev/resume.pdf"><img src="https://img.shields.io/badge/📄_Resume-View_PDF-4CAF50?style=for-the-badge" /></a>
+<a href="https://www.lakshit.dev/Lakshit_s_CV_Users.pdf"><img src="https://img.shields.io/badge/📄_Resume-View_PDF-4CAF50?style=for-the-badge" /></a>
 <a href="https://medium.com/www.zxgupta12345678"><img src="https://img.shields.io/badge/📰_Medium-Articles-12100E?style=for-the-badge" /></a>
 
 </div>

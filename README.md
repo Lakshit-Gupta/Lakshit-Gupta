@@ -55,7 +55,7 @@ I'm a CS student building at the intersection of **full-stack engineering**, **m
 - 📄 Read my resume **[here](https://www.lakshit.dev/Lakshit_s_CV_Users.pdf)**
 - 📬 Reach me at **contact@lakshit.dev**
 - 🌟 **Fun Fact:** I'm a Jack of All Trades — familiar with almost every tech stack and technology out there
-- 🎧 Currently vibing to — *myself* 🤷
+<!-- - 🎧 Currently vibing to — *myself* 🤷 -->
 
 ---
 

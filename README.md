@@ -50,7 +50,7 @@ I'm a CS student building at the intersection of **full-stack engineering**, **m
 - 🌱 Exploring **LLM post-training, EVALS, and generative AI**
 - 🖥️ Running a **homelab** — tinkering with self-hosted infra, servers, and local AI setups
 - 👯 Open to collaborating on **tools that solve real problems**
-- 📝 I write about tech at **[blogs.lakshit.dev](https://x.com/www_lakshit)**
+- 📝 I write about tech at **[X](https://x.com/www_lakshit)**
 - 🌐 Everything I've built lives at **[lakshit.dev](https://lakshit.dev)**
 - 📄 Read my resume **[here](https://www.lakshit.dev/Lakshit_s_CV_Users.pdf)**
 - 📬 Reach me at **contact@lakshit.dev**
@@ -89,9 +89,9 @@ I'm a CS student building at the intersection of **full-stack engineering**, **m
 
 | Project | What it is | Status |
 | :--- | :--- | :--- |
-| **[scheduling-platform](https://github.com/Lakshit-Gupta/scheduling-platform)** | Open-source scheduling infrastructure | 🚀 Live |
-| **[BrainBolt](https://github.com/Lakshit-Gupta/BrainBolt)** | Adaptive learning algorithm experiments | 🧪 Beta |
-| **[testing_in_prod](https://github.com/Lakshit-Gupta/testing_in_prod)** | Production testing and CI/CD experiments | 🚧 Researching |
+| **[GoAttend](https://github.com/Lakshit-Gupta/GoAttend)** |  Attendance Backend | 🚀 Live |
+| **[Cartograph](https://github.com/Lakshit-Gupta/Cartograph)** | Jobs Finder  | 🧪 Beta |
+| **[voiceflow](https://github.com/Lakshit-Gupta/voiceflow)** | Native Text to Speech for linux Enviornments | 🚧 Researching  |
 
 ---
 

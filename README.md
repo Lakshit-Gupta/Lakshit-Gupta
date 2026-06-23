@@ -50,7 +50,7 @@ I'm a CS student building at the intersection of **full-stack engineering**, **m
 - 🌱 Exploring **LLM post-training, EVALS, and generative AI**
 - 🖥️ Running a **homelab** — tinkering with self-hosted infra, servers, and local AI setups
 - 👯 Open to collaborating on **tools that solve real problems**
-- 📝 I write about tech at **[blogs.lakshit.dev](https://blogs.lakshit.dev)**
+- 📝 I write about tech at **[blogs.lakshit.dev](https://x.com/www_lakshit)**
 - 🌐 Everything I've built lives at **[lakshit.dev](https://lakshit.dev)**
 - 📄 Read my resume **[here](https://www.lakshit.dev/Lakshit_s_CV_Users.pdf)**
 - 📬 Reach me at **contact@lakshit.dev**

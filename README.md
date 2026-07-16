@@ -75,7 +75,7 @@ I'm a CS student building at the intersection of **full-stack engineering**, **m
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[BrainBolt](https://github.com/Lakshit-Gupta/BrainBolt)** | ⚡ Adaptive quiz platform featuring a real-time confidence-based hysteresis algorithm | `Next.js 15` `TypeScript` `Redis` |
+| **[Real-Time_Leaderboard](https://github.com/Lakshit-Gupta/Real-Time_Leaderboard)** | ⚡ Adaptive quiz platform featuring a real-time confidence-based hysteresis algorithm | `Next.js 15` `TypeScript` `Redis` |
 | **[scheduling-platform](https://github.com/Lakshit-Gupta/scheduling-platform)** | 📅 Enterprise-grade scheduling infrastructure with complex booking workflows (Cal.com replica) | `Next.js` `Prisma` `Supabase` |
 | **[Global_Career](https://github.com/Lakshit-Gupta/Global_Career)** | 🌍 AI-powered global job search platform with auto-translation and resume optimization | `Next.js` `TypeScript` `Supabase` |
 

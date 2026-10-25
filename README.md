@@ -238,17 +238,17 @@ I'm a CS student building at the intersection of **full-stack engineering**, **m
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> -->
 
-## 🏅 Holopin Badges
+<!-- ## 🏅 Holopin Badges -->
 
-> *Badges earned along the way — more coming soon.*
+<!-- > *Badges earned along the way — more coming soon.* -->
 
-<div align="center">
-  <a href="https://holopin.me/lakshitgupta">
-    <img src="https://holopin.me/lakshitgupta" alt="@lakshitgupta Holopin board" />
-  </a>
-</div>
+<!--  <div align="center"> -->
+<!--   <a href="https://holopin.me/lakshitgupta"> -->
+<!--     <img src="https://holopin.me/lakshitgupta" alt="@lakshitgupta Holopin board" /> -->
+<!--  </a> -->
+<!--</div> -->
 
----
+<!-- --- -->
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> -->
 

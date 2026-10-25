@@ -216,7 +216,7 @@ I'm a CS student building at the intersection of **full-stack engineering**, **m
 
 <div align="center">
 
-[![Lakshit's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lakshit-Gupta&theme=react-dark&hide_border=true&area=true)](https://github.com/Lakshit-Gupta)
+[![Lakshit's Activity Graph](https://activity-graph-sand-ten.vercel.app/graph?username=Lakshit-Gupta&theme=react-dark&hide_border=true&area=true)](https://github.com/Lakshit-Gupta)
 
 </div>
 
